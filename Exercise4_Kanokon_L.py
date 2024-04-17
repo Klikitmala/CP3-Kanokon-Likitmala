@@ -14,4 +14,9 @@ print("---Your Score---")
 print("Foundation English :",eng1)
 print("General Business :",bus1)
 print("Introduction to Computer Systems :",com_sys1)
+<<<<<<< HEAD
 print("Computer Programming :",com_pro)
+=======
+print("Computer Programming :",com_pro)
+
+>>>>>>> 2810cad1b983ac5796d605d6d2437b09b495284b
