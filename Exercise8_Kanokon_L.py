@@ -1,7 +1,8 @@
 usernameInput = input("Username :")
 passwordInput = input("Password :")
 if usernameInput == "Kanokon" and passwordInput == "1234" :
-    print("Hello Welcome VIP")
+    print("Welcome Y'All !!!!")
+    print("<<<<<<  Nanny Shop >>>>>>")
     print("1. Squishmello : 13.99 $")
     print("2. Kids Jean : 10.99 $")
     print("3. Kids T-shirt : 4.99 $")
