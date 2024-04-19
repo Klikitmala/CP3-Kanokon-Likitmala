@@ -4,13 +4,14 @@ passwordInput = input("Password :")
 if usernameInput == "Kanokon" and passwordInput == "1234" :
     print("Welcome Y'All !!!!")
     print("<<<<<<  Nanny Shop >>>>>>")
-    print("1. Squishmello : 13.99 $")
-    print("2. Kids Jean : 10.99 $")
-    print("3. Kids T-shirt : 4.99 $")
     
     price1 = 13.99 #1. Squishmello : 13.99 $
     price2 = 10.99 #2. Kids Jean : 10.99 $
     price3 = 4.99  #3. Kids T-shirt : 4.99 $
+
+    print("1. Squishmello :", price1)
+    print("2. Kids Jean :", price2)
+    print("3. Kids T-shirt :", price3)
 
     userSelected = int(input("Please Select item's number >>"))
 
