@@ -10,7 +10,7 @@ def showBill():
     print("Total Price : $",totalPrice)
 
 while True:
-    menuName = input("Plese Enter Menu : ")
+    menuName = input("Please Enter Menu : ")
     if(menuName.lower() == "exit"):
         break
     else:
